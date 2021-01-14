@@ -5,7 +5,7 @@ excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
   means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+  such as photographic film.імвівмівмівмівмівмівмівмівм
 date: '2018-01-15'
 layout: post
 thumb_img_path: images/12.jpg
