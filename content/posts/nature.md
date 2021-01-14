@@ -5,7 +5,7 @@ subtitle: >-
   health will recharge and how I benefit from it.
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.цццц
+  health will recharge and how I benefit from it.
 date: '2019-03-24'
 hide_header: true
 layout: post
